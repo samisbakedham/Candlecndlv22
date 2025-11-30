@@ -1,7 +1,7 @@
 
-  # Design Candle Landing Page
+  # Candle
 
-  This is a code bundle for Design Candle Landing Page. The original project is available at https://www.figma.com/design/cbCamDHebx8DF6VASZwHs8/Design-Candle-Landing-Page.
+  This is a code bundle for Candle. The original project is available at https://www.figma.com/design/cbCamDHebx8DF6VASZwHs8/Candle.
 
   ## Running the code
 
